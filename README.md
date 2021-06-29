@@ -16,3 +16,7 @@ https://github.com/baraahalomari/basic-express-server/actions
 ## Heroku applications
 
 https://balomari-basic-express-server.herokuapp.com/
+
+## UML diagram
+
+![UML diagram](./lab2.png)
